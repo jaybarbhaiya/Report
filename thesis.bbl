@@ -1,0 +1,17 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{pal}{}]{palette}
+What is palette.
+
+\bibitem[\protect\astroncite{Levkowitz}{1997}]{levkowitz1997color}
+Levkowitz, H. (1997).
+\newblock {\em Color theory and modeling for computer graphics, visualization,
+  and multimedia applications}, volume 402.
+\newblock Springer Science \& Business Media.
+
+\bibitem[\protect\astroncite{Van~der Brugge}{2010}]{van2010biomimicry}
+Van~der Brugge, A. (2010).
+\newblock {\em Biomimicry for Light Regulation in Building Envelopes}.
+\newblock PhD thesis, TU Delft, Delft University of Technology.
+
+\end{thebibliography}

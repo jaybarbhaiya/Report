@@ -1,0 +1,15 @@
+\contentsline {part}{I\hspace {1em}Introduction}{1}{part.1}
+\contentsline {part}{II\hspace {1em}Visual perception}{3}{part.2}
+\contentsline {section}{\numberline {1}A big section}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}A subsection}{3}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}A subsubsection}{3}{subsubsection.1.1.1}
+\contentsline {section}{\numberline {2}Another big section}{3}{section.2}
+\contentsline {part}{III\hspace {1em}Conclusion and Outlook}{4}{part.3}
+\contentsline {section}{\numberline {3}A big section}{4}{section.3}
+\contentsline {part}{IV\hspace {1em}End Material}{5}{part.4}
+\contentsline {section}{Material}{5}{section*.4}
+\contentsline {section}{List of Figures}{6}{section*.4}
+\contentsline {section}{List of Tables}{7}{section*.5}
+\contentsline {section}{Abbreviations}{9}{section*.7}
+\contentsline {section}{Glossary}{10}{section*.7}
+\contentsline {section}{Bibliography}{10}{section*.7}
